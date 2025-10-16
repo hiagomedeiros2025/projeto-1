@@ -1,0 +1,22 @@
+.box2, .box3, .box1 {
+border: 1px solid red;
+width: 150px;
+height: 150px;
+background-color: rgb(3, 3, 3);
+
+margin: 5;
+float: left;
+color: crimson; 
+border-radius: 15px; /*borda*/
+display: flex;
+justify-content: center ;
+align-items: center;
+
+}
+.imagens{
+    width: 95%;
+}
+.limpar{
+    clear:both;
+}
+
